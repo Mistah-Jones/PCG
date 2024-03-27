@@ -1,0 +1,54 @@
+[+] Containers:
+ |- [+] Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:26564FAF4BFA147204CC3AAC6BD4D0F5 BaseClass:/Game/ThirdPerson/Blueprints/BP_PCG_Manager.BP_PCG_Manager_C NativeClass:/Script/Engine.Actor Name:BP_PCG_Manager_C_UAID_C87F54CE14DB23E601_1336139207 Label:BP_PCG_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=850.000 Z=0.000), Max=(X=1250.000 Y=850.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=1908.000), Max=(X=940.000 Y=1150.000 Z=2092.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:427841DB4A3C102221D3F0B570E7D9DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54CE14DB21E601_1955627848 Label:SM_QuarterCylinder8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1600.000 Y=2200.000 Z=0.000), Max=(X=2000.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- Guid:6319AA004A66C9B8C5DC869A9F7A1332 BaseClass:/Game/ThirdPerson/Materials/BP_SpaceBG_Skybox.BP_SpaceBG_Skybox_C NativeClass:/Script/Engine.Actor Name:BP_SpaceBG_Skybox_C_UAID_C87F54CE14DB2DE601_1438218969 Label:BP_SpaceBG_Skybox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-85570.000 Y=-80120.000 Z=-81170.000), Max=(X=78270.000 Y=83720.000 Z=82670.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:80AD02C04ED14130C50F438988F2A8CA BaseClass:/Game/ThirdPerson/Blueprints/BP_KillZone.BP_KillZone_C NativeClass:/Script/Engine.Actor Name:BP_KillZone_C_UAID_C87F54CE14DB2AE601_1434662440 Label:BP_KillZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1024000.000 Y=-1024000.000 Z=-32.000), Max=(X=1024000.000 Y=1024000.000 Z=32.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- Guid:BE6358AE4210C989D4DB929A898B2493 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54CE14DB21E601_1922283847 Label:SM_QuarterCylinder7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2300.000 Z=0.000), Max=(X=1300.000 Y=2600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:6BAF4DDD444C60371492D3919DB42C97 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:B785ED2844B84CFB91E7F39FE661CD99 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_0 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:963EC3EB4002CCE9759E2EBA541A873A
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:3A00AA1C422CE54C0BDB60BAF471BFBB BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=860.000 Y=1070.000 Z=1908.000), Max=(X=940.000 Y=1150.000 Z=2092.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:BE6358AE4210C989D4DB929A898B2493 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54CE14DB21E601_1922283847 Label:SM_QuarterCylinder7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1200.000 Y=2300.000 Z=0.000), Max=(X=1300.000 Y=2600.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:427841DB4A3C102221D3F0B570E7D9DA BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C87F54CE14DB21E601_1955627848 Label:SM_QuarterCylinder8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1600.000 Y=2200.000 Z=0.000), Max=(X=2000.000 Y=2300.000 Z=200.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 FolderPath:Block01 FolderGuid:7D23E5AE4C2A421F86AF6986D87E6D05
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:80AD02C04ED14130C50F438988F2A8CA BaseClass:/Game/ThirdPerson/Blueprints/BP_KillZone.BP_KillZone_C NativeClass:/Script/Engine.Actor Name:BP_KillZone_C_UAID_C87F54CE14DB2AE601_1434662440 Label:BP_KillZone SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1024000.000 Y=-1024000.000 Z=-32.000), Max=(X=1024000.000 Y=1024000.000 Z=32.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:26564FAF4BFA147204CC3AAC6BD4D0F5 BaseClass:/Game/ThirdPerson/Blueprints/BP_PCG_Manager.BP_PCG_Manager_C NativeClass:/Script/Engine.Actor Name:BP_PCG_Manager_C_UAID_C87F54CE14DB23E601_1336139207 Label:BP_PCG_Manager SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1250.000 Y=850.000 Z=0.000), Max=(X=1250.000 Y=850.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:6319AA004A66C9B8C5DC869A9F7A1332 BaseClass:/Game/ThirdPerson/Materials/BP_SpaceBG_Skybox.BP_SpaceBG_Skybox_C NativeClass:/Script/Engine.Actor Name:BP_SpaceBG_Skybox_C_UAID_C87F54CE14DB2DE601_1438218969 Label:BP_SpaceBG_Skybox SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-85570.000 Y=-80120.000 Z=-81170.000), Max=(X=78270.000 Y=83720.000 Z=82670.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/ThirdPerson/Maps/ThirdPersonMap
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 20 
+
+----------------------------------------------------------------------------------------------------------------
+ThirdPersonMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
